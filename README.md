@@ -3,11 +3,11 @@ This project was built for the UI Take-Home Challenge to demonstrate:
 
 ** Understanding of user needs **
 
-Clean, user-friendly UI design
+>>Clean, user-friendly UI design
 
-API integration and data display
+>>API integration and data display
 
-Responsive and accessible layout
+>>Responsive and accessible layout
 
 ** User Persona: **
 
@@ -61,7 +61,9 @@ View the list of books that match your search.
 
 🧩 Folder Structure
 
-src/ ├── App.js # Main component ├── index.js # Entry point public/ ├── index.html # HTML file with Tailwind and Google Fonts links
+src/ ├── App.js # Main component
+├── index.js # Entry point public/
+├── index.html # HTML file with Tailwind and Google Fonts links
 
 🩵 Acknowledgements
 
